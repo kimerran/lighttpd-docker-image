@@ -1,5 +1,4 @@
 # compose the [server.conf]
-
 CONFIG_DIR=/etc/lighttpd
 
 rm -rf $CONFIG_DIR/server.conf
